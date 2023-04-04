@@ -1,7 +1,7 @@
-# GuardDuty findings to Mail Integration
+# Amazon GuardDuty findings to Mail Integration
 ## Overview
 
-This repository contains an AWS CDK project to deploy a solution that automates the GuardDuty findings through mail using EventBridge, Lambda and SNS. 
+This repository contains an AWS CDK project to deploy a solution that automates the Amazon GuardDuty findings through mail using Amazon EventBridge, AWS Lambda and Amazon SNS. 
 A sample of the notification can be seen below
 ![](architecture/mail-sample.png)
 
